@@ -618,6 +618,7 @@ body::before {
 
 /* النقطة المتحركة مع التمرير */
 .scroll-tracker-dot {
+    background-image: url('flower-decor.png.webp');
     position: absolute;
     left: 50%;
     top: 0;
